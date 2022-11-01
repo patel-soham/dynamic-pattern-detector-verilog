@@ -1,6 +1,6 @@
 # Dynamic pattern detector using verilog
 A project to implement dynamic pattern detector using verilog in different ways.
-- Dynamic pattern detector with variable number of bits in implicit style fsm which supports APB protocol to configure pattern register value. 
+- Dynamic pattern detector with variable number of bits in implicit style fsm which supports APB protocol to configure pattern register value. (COMING SOON)
 - Dynamic 3 bit pattern detector in explicit style fsm.
 - Dynamic pattern detector with variable number of bits in implicit style fsm.
 
