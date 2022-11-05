@@ -6,6 +6,5 @@ A project to implement dynamic pattern detector using verilog in different ways.
 
 ---
 **Files**
-1. Implicit fsm with APB [design](!!!) and [testbench](!!!)
-2. Explicit fsm [design](dynamic_pattern_exp.v) and [testbench](tb_dynamic_pattern_exp.v)
-3. Implicit fsm [design](dynamic_pattern_imp.v) and [testbench](tb_dynamic_pattern_imp.v)
+1. Explicit fsm [design](dynamic_pattern_exp.v) and [testbench](tb_dynamic_pattern_exp.v)
+2. Implicit fsm [design](dynamic_pattern_imp.v) and [testbench](tb_dynamic_pattern_imp.v)
